@@ -1,1 +1,1 @@
-# Div-LS-GAN-
+# Div-LS-GAN
